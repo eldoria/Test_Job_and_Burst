@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\user\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\user\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_JobSystem_and_Burst.1698992289.00" t="ExcludeRecursive" />
+    <e p="C:\Users\user\Documents\Ecole\ESGI\3DJV\JobSystem_and_Burst" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="MoveSphere.cs" t="Include" />
+        </e>
+      </e>
+      <e p="JobSystem_and_Burst.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
